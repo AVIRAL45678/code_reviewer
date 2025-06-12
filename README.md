@@ -55,18 +55,21 @@ Follow these steps to set up and run the project locally:
 ```bash
 git clone https://github.com/AVIRAL45678/code_reviewer.git
 cd code_reviewer
+
 2. Install Backend Dependencies
 bash
 Copy
 Edit
 cd BackEnd
 npm install
+
 3. Install Frontend Dependencies
 bash
 Copy
 Edit
 cd ../FrontEnd
 npm install
+
 4. Run the Application
 Open two terminals or terminal tabs:
 
@@ -76,14 +79,15 @@ Copy
 Edit
 cd BackEnd
 node server.js
+
 Terminal 2: Start the Frontend Development Server
 bash
 Copy
 Edit
 cd FrontEnd
 npm run dev
+
 5. Open the application in your browser
-arduino
 Copy
 Edit
 http://localhost:5173
