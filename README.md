@@ -9,7 +9,6 @@ An intelligent **AI-Powered Code Reviewer** built using the **MERN Stack** (Mong
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
 
@@ -44,39 +43,7 @@ This project is designed to demonstrate a full-stack web application integrated 
 
 ---
 
-## 🚀 Getting Started
 
-
-
-Follow these steps to set up and run the project locally:
-
-
-```bash
-1. Clone the repository
-git clone https://github.com/AVIRAL45678/code_reviewer.git
-cd code_reviewer
-
-2. Install Backend Dependencies
-cd BackEnd
-npm install
-
-3. Install Frontend Dependencies
-cd ../FrontEnd
-npm install
-
-4. Run the Application
-Open two terminals or terminal tabs:
-
-Terminal 1: Start the Backend Server
-cd BackEnd
-node server.js
-
-Terminal 2: Start the Frontend Development Server
-cd FrontEnd
-npm run dev
-
-5. Open the application in your browser
-http://localhost:5173
 
 
 
