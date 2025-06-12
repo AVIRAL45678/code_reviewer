@@ -46,7 +46,7 @@ This project is designed to demonstrate a full-stack web application integrated 
 
 ## 🚀 Getting Started
 
-## 🚀 Getting Started
+
 
 Follow these steps to set up and run the project locally:
 
