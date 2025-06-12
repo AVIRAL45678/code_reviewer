@@ -50,23 +50,17 @@ This project is designed to demonstrate a full-stack web application integrated 
 
 Follow these steps to set up and run the project locally:
 
-### 1. Clone the repository
 
 ```bash
+1. Clone the repository
 git clone https://github.com/AVIRAL45678/code_reviewer.git
 cd code_reviewer
 
 2. Install Backend Dependencies
-bash
-Copy
-Edit
 cd BackEnd
 npm install
 
 3. Install Frontend Dependencies
-bash
-Copy
-Edit
 cd ../FrontEnd
 npm install
 
@@ -74,22 +68,14 @@ npm install
 Open two terminals or terminal tabs:
 
 Terminal 1: Start the Backend Server
-bash
-Copy
-Edit
 cd BackEnd
 node server.js
 
 Terminal 2: Start the Frontend Development Server
-bash
-Copy
-Edit
 cd FrontEnd
 npm run dev
 
 5. Open the application in your browser
-Copy
-Edit
 http://localhost:5173
 
 
